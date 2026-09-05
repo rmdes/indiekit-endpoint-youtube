@@ -1,6 +1,6 @@
 {
   "name": "@rmdes/indiekit-endpoint-youtube",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "YouTube channel endpoint for Indiekit. Display latest videos and live status from any YouTube channel.",
   "keywords": [
     "indiekit",
@@ -43,9 +43,6 @@
   "dependencies": {
     "@indiekit/error": "^1.0.0-beta.25",
     "express": "^5.0.0"
-  },
-  "peerDependencies": {
-    "@indiekit/indiekit": ">=1.0.0-beta.25"
   },
   "publishConfig": {
     "access": "public"
